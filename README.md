@@ -1,5 +1,5 @@
 # Controller-LaserCut-CAD
-Laser Cut CAD files for controllers of games from the Bemani Series
+Laser Cut CAD files and artwork for controllers of games from the Bemani Series
 
 This repo will (probably) be maintained by me
 
