@@ -26,7 +26,11 @@ Encoder: 3mm
 
 Top Layer Turnable: 3.5mm
 
+Pop'n
+
+Acrylic: 6mm
+
 
 # To do:
 
-Pop'n
+~~Pop'n~~
