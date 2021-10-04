@@ -25,7 +25,7 @@ SDVX:
 Wood Laser Cut: 6mm\
 Acrylic Laser Cut: 5mm (Or whatever suits you)\
 Acrylic Screwholes: 6mm\
-Encoder Screwholes: 3mm\
+Encoder Screwholes: 3mm
 
 IIDX:
 
@@ -33,14 +33,14 @@ Wood Laser Cut: 6mm\
 Acrylic Laser Cut: 5mm (Or whatever suits you)\
 Keyboard [7K] Screwholes: 6mm\
 Turntable Screwholes: 6mm\
-Encoder Screwholes: 3mm\
-Top Layer Turnable Screwholes: 3.5mm\
+Encoder Screwholes: 3mm
+Top Layer Turnable Screwholes: 3.5mm
 
 Pop'n:
 
 Wood Laser Cut: 6mm\
 Acrylic Laser Cut: 5mm (Or whatever suits you)\
-Acrylic Screwholes: 6mm\
+Acrylic Screwholes: 6mm
 
 
 # To do:
@@ -48,4 +48,4 @@ Acrylic Screwholes: 6mm\
 ~~Pop'n~~\
 SDVX Midcon\
 SDVX Minicon\
-Smaller IIDX Controller\
+Smaller IIDX Controller
